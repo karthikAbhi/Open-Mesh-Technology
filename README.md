@@ -8,3 +8,7 @@ Learn Open Mesh Technology
 > ###### Youtube Links
 
 1. Open Mesh Network Intro - https://www.youtube.com/watch?v=1YOoT3NxgYg
+
+
+> ### Latest Updates about Open-Mesh Technologies
+  1. [Open-Mesh is dead. Welcome Altiwi!](https://medium.com/altiwi-blog/https-medium-com-altiwi-blog-open-mesh-is-dead-welcome-altiwi-2d79a90dd994)
